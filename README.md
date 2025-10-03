@@ -2,9 +2,6 @@
 
 ## Welcome to the IELTS Exam Simulation website!
 
-This dynamic project is actively under development to create an immersive and authentic platform for users to refine their skills in the Reading and Listening sections of the IELTS exam.
-
-**Please note that the website is currently in development and some features may not be fully implemented. Contributions and feedback are welcome to help improve the platform.**
 
 ## Table of Contents
 
@@ -60,7 +57,3 @@ Ensure you have the following dependencies installed before proceeding:
     # or
     ```
 6. Visit http://localhost:3000 in your browser to access the application.
-
-This website aims to provide a professional and effective platform to help individuals prepare thoroughly for the IELTS exam. Your contributions are welcome
-
-Feel free to explore, practice, and enhance your IELTS skills with our simulation website!
