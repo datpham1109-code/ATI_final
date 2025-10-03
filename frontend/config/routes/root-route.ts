@@ -3,13 +3,13 @@ import type { FooterItem, MainNavItem } from "@/types";
 export type SiteConfig = typeof siteConfig;
 
 const links = {
-  twitter: "https://twitter.com/NVTai0452",
-  github: "https://github.com/nvtai040502/ieltstrek",
-  githubAccount: "https://github.com/nvtai040502",
+  twitter: "https://x.com/nguyeen3304",
+  github: "https://github.com/nguyeeen/ATI_final",
+  githubAccount: "https://github.com/nguyeeen",
 };
 
 export const siteConfig = {
-  name: "Ielts Trek",
+  name: "Ielts Stimulation",
   description: "An open source Ielts Exam Online Test",
   url: "https://ieltstrek.vercel.app/",
   links,
@@ -53,28 +53,28 @@ export const siteConfig = {
       title: "Credits",
       items: [
         {
-          title: "OneStopShop",
-          href: "https://onestopshop.jackblatch.com",
+          title: "FreeCodeCamp",
+          href: "https://www.freecodecamp.org/",
           external: true,
         },
         {
-          title: "Acme Corp",
-          href: "https://acme-corp.jumr.dev",
+          title: "Cousera",
+          href: "https://www.coursera.org/courseraplus?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_bd-ex_s2_all_m_hyb_23-12_x&campaignid=20989858741&adgroupid=157016705446&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&creativeid=689547274242&assetgroupid=&targetid=kwd-36262515261&extensionid=&placement=&gad_source=1&gad_campaignid=20989858741&gbraid=0AAAAADdKX6aKCuJvnT7YqEV7RLelSCbXF&gclid=CjwKCAjw6P3GBhBVEiwAJPjmLlvSv5YgfhrCN-PQbhtfnza7dYM2_Kdc7Xwy-VqDw1SGmp6mswdl4xoCubAQAvD_BwE",
           external: true,
         },
         {
-          title: "craft.mxkaske.dev",
-          href: "https://craft.mxkaske.dev",
+          title: "BuildYourOwn",
+          href: "https://github.com/codecrafters-io/build-your-own-x",
           external: true,
         },
         {
-          title: "Taxonomy",
-          href: "https://tx.shadcn.com/",
+          title: "Kaggle",
+          href: "https://www.kaggle.com/datasets",
           external: true,
         },
         {
-          title: "shadcn/ui",
-          href: "https://ui.shadcn.com",
+          title: "Google-AI-Studio",
+          href: "https://ai.google.dev/aistudio",
           external: true,
         },
       ],
@@ -123,22 +123,22 @@ export const siteConfig = {
       title: "Lofi",
       items: [
         {
-          title: "beats to study to",
+          title: "Beats to study to",
           href: "https://www.youtube.com/watch?v=jfKfPfyJRdk",
           external: true,
         },
         {
-          title: "beats to chill to",
+          title: "Beats to chill to",
           href: "https://www.youtube.com/watch?v=rUxyKA_-grg",
           external: true,
         },
         {
-          title: "a fresh start",
+          title: "A fresh start",
           href: "https://www.youtube.com/watch?v=rwionZbOryo",
           external: true,
         },
         {
-          title: "coffee to go",
+          title: "Coffee to go",
           href: "https://www.youtube.com/watch?v=2gliGzb2_1I",
           external: true,
         },

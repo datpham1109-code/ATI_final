@@ -75,7 +75,7 @@ export function SiteFooter() {
               rel="noreferrer"
               className="font-semibold transition-colors hover:text-foreground"
             >
-              Nvtai
+              Nguyên
               <span className="sr-only">Github</span>
             </Link>
             .
