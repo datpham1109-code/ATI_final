@@ -17,10 +17,9 @@ const RootPage = async () => {
   return (
     <div className="container relative">
       <PageHeader>
-        <PageHeaderHeading>Build your component library</PageHeaderHeading>
+        <PageHeaderHeading>Practice Your Ielts</PageHeaderHeading>
         <PageHeaderDescription>
-          Beautifully designed components that you can copy and paste into your
-          apps. Accessible. Customizable. Open Source.
+          A place where you can mock-test your Ielts exam and get a chatbot to learn Vocabulary, Grammar and Pronounciation
         </PageHeaderDescription>
         <PageActions>
           <Link href="/" className={cn(buttonVariants())}>
